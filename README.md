@@ -21,7 +21,7 @@ To get started, install Python and Postgres on your local computer if you don't 
 **Step 1. Clone the code into a fresh folder**
 
 ```
-$ git clone https://github.com/MLH/mlh-hackathon-flask-starter.git
+$ git clone https://github.com/mebesius/mlh-hackathon-flask-starter.git
 $ cd mlh-hackathon-flask-starter
 ```
 
